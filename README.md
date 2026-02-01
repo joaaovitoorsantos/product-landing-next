@@ -77,7 +77,7 @@ Acesse `http://localhost:3000` no navegador.
 
 ## Deploy
 
-[Link do projeto em produção aqui]
+[https://product-landing-next.vercel.app/]
 
 ---
 
